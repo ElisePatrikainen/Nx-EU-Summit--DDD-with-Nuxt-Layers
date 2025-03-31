@@ -1,0 +1,131 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Luxury Resort & Spa",
+      "location": "Bali, Indonesia",
+      "description": "A stunning beachfront resort offering world-class spa treatments and luxury accommodations.",
+      "price": 299,
+      "rating": 4.8,
+      "reviews": 128,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "amenities": ["Pool", "Spa", "Restaurant", "Beach Access", "Free WiFi"],
+      "rooms": ["Standard", "Deluxe", "Suite", "Villa"]
+    },
+    {
+      "id": 2,
+      "name": "Boutique Hotel",
+      "location": "Paris, France",
+      "description": "Elegant boutique hotel in the heart of Paris, offering personalized service and unique charm.",
+      "price": 199,
+      "rating": 4.6,
+      "reviews": 95,
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "amenities": ["Bar", "Restaurant", "Fitness Center", "Free WiFi", "Room Service"],
+      "rooms": ["Classic", "Superior", "Junior Suite"]
+    },
+    {
+      "id": 3,
+      "name": "Beach Resort",
+      "location": "Maldives",
+      "description": "Exclusive overwater villas with private pools and direct lagoon access.",
+      "price": 399,
+      "rating": 4.9,
+      "reviews": 156,
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "amenities": ["Private Pool", "Spa", "Diving Center", "Beach Access", "Restaurant"],
+      "rooms": ["Water Villa", "Beach Villa", "Presidential Suite"]
+    },
+    {
+      "id": 4,
+      "name": "Mountain Lodge",
+      "location": "Swiss Alps",
+      "description": "Cozy mountain retreat with panoramic views and ski-in/ski-out access.",
+      "price": 249,
+      "rating": 4.7,
+      "reviews": 82,
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "amenities": ["Ski Storage", "Restaurant", "Spa", "Free WiFi", "Ski School"],
+      "rooms": ["Standard", "Deluxe", "Family Suite"]
+    },
+    {
+      "id": 5,
+      "name": "City Center Hotel",
+      "location": "New York, USA",
+      "description": "Modern hotel in the heart of Manhattan, offering easy access to major attractions.",
+      "price": 279,
+      "rating": 4.5,
+      "reviews": 203,
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "amenities": ["Gym", "Restaurant", "Business Center", "Free WiFi", "Concierge"],
+      "rooms": ["Standard", "Executive", "Penthouse Suite"]
+    },
+    {
+      "id": 6,
+      "name": "Hôtel de la Tour Eiffel",
+      "location": "Paris, France",
+      "description": "Luxurious hotel with stunning views of the Eiffel Tower, located in the prestigious 7th arrondissement.",
+      "price": 349,
+      "rating": 4.8,
+      "reviews": 167,
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "amenities": [
+        "Eiffel Tower View",
+        "Spa",
+        "Fine Dining",
+        "Free WiFi",
+        "Concierge",
+        "Room Service"
+      ],
+      "rooms": ["Eiffel View Room", "Executive Suite", "Presidential Suite"]
+    },
+    {
+      "id": 7,
+      "name": "Le Louvre Palace",
+      "location": "Paris, France",
+      "description": "Historic hotel near the Louvre Museum, offering elegant rooms and classic French decor.",
+      "price": 289,
+      "rating": 4.7,
+      "reviews": 142,
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "amenities": ["Museum Access", "Art Gallery", "Restaurant", "Free WiFi", "Business Center"],
+      "rooms": ["Classic Room", "Deluxe Room", "Luxury Suite"]
+    },
+    {
+      "id": 8,
+      "name": "Champs-Élysées Boutique",
+      "location": "Paris, France",
+      "description": "Modern boutique hotel on the famous Champs-Élysées, perfect for shopping and sightseeing.",
+      "price": 259,
+      "rating": 4.6,
+      "reviews": 98,
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "amenities": ["Shopping District", "Bar", "Fitness Center", "Free WiFi", "Spa"],
+      "rooms": ["Standard Room", "Superior Room", "Design Suite"]
+    },
+    {
+      "id": 9,
+      "name": "Montmartre Artist Hotel",
+      "location": "Paris, France",
+      "description": "Charming hotel in the artistic Montmartre district, featuring unique art installations and a rooftop terrace.",
+      "price": 199,
+      "rating": 4.5,
+      "reviews": 89,
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "amenities": ["Rooftop Terrace", "Art Gallery", "Café", "Free WiFi", "Tour Desk"],
+      "rooms": ["Artist Room", "Studio Room", "Terrace Suite"]
+    },
+    {
+      "id": 10,
+      "name": "Seine River View Hotel",
+      "location": "Paris, France",
+      "description": "Contemporary hotel with panoramic views of the Seine River and Notre-Dame Cathedral.",
+      "price": 329,
+      "rating": 4.7,
+      "reviews": 134,
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "amenities": ["River View", "Restaurant", "Spa", "Free WiFi", "Boat Tour Access"],
+      "rooms": ["River View Room", "Executive Suite", "Notre-Dame Suite"]
+    }
+  ]
+}

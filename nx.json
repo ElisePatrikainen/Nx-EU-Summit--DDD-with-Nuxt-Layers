@@ -1,0 +1,19 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "targetDefaults": {
+    "build": {
+      "cache": true,      
+      "dependsOn": [
+        { "dependencies": true, "target": "typecheck" },
+        { "dependencies": true, "target": "test" }
+      ] 
+    },
+    "test": {
+      "cache": true
+    },
+    "typecheck": {
+      "cache": true
+    }
+  },
+  "nxCloudId": "67e981770a44bd54903ca321"
+}

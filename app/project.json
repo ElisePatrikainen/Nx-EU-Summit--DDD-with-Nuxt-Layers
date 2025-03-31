@@ -1,0 +1,7 @@
+{
+  "targets": {
+    "hello": {
+      "command": "echo \"Hello, world!\""
+    }
+  }
+}
